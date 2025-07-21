@@ -72,16 +72,16 @@ main {
   transition: background-color 0.3s ease;
 }
 
-.options button:hover{
-    background-color: rgb(20, 107, 20);
+.options button:hover {
+  background-color: rgb(20, 107, 20);
 }
 
-.output{
-    background-color: #ffffff;
-    padding: 30px;
-    border-radius: 10px;
-    border: 2px solid crimson;
-    min-height: 200px;
-    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.1);
-    color: #333;
+.output {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  border: 2px solid crimson;
+  min-height: 200px;
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.1);
+  color: #333;
 }
